@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorar a pasta Área de Trabalho
+Área de Trabalho/
+
+# Ignorar pastas de IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos compilados
+target/
+bin/
+
+# Outros arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
